@@ -1,0 +1,34 @@
+04-10 04:18:55.312      683-683/edu.washington.yujia1.activityspy D/dalvikvm©s Not late-enabling CheckJNI (already on)
+04-10 04:18:55.991      683-683/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.view.ViewGroup.onNestedScrollAccepted, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onNestedScrollAccepted
+04-10 04:18:55.991      683-683/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 12208: Landroid/view/ViewGroup;.onNestedScrollAccepted (Landroid/view/View;Landroid/view/View;I)V
+04-10 04:18:56.002      683-683/edu.washington.yujia1.activityspy D/dalvikvm©s VFY: replacing opcode 0x6f at 0x0000
+04-10 04:18:56.002      683-683/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.view.ViewGroup.onStopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onStopNestedScroll
+04-10 04:18:56.002      683-683/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 12214: Landroid/view/ViewGroup;.onStopNestedScroll (Landroid/view/View;)V
+04-10 04:18:56.002      683-683/edu.washington.yujia1.activityspy D/dalvikvm©s VFY: replacing opcode 0x6f at 0x0000
+04-10 04:18:56.011      683-683/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.view.ViewGroup.onWindowSystemUiVisibilityChanged, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onWindowSystemUiVisibilityChanged
+04-10 04:18:56.011      683-683/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 12216: Landroid/view/ViewGroup;.onWindowSystemUiVisibilityChanged (I)V
+04-10 04:18:56.011      683-683/edu.washington.yujia1.activityspy D/dalvikvm©s VFY: replacing opcode 0x6f at 0x0008
+04-10 04:18:56.021      683-683/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.support.v7.internal.widget.ActionBarOverlayLayout.stopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.setHideOnContentScrollEnabled
+04-10 04:18:56.021      683-683/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 9779: Landroid/support/v7/internal/widget/ActionBarOverlayLayout;.stopNestedScroll ()V
+04-10 04:18:56.021      683-683/edu.washington.yujia1.activityspy D/dalvikvm©s VFY: replacing opcode 0x6e at 0x000e
+04-10 04:18:56.122      683-683/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.view.ViewGroup.onRtlPropertiesChanged, referenced from method android.support.v7.widget.Toolbar.onRtlPropertiesChanged
+04-10 04:18:56.122      683-683/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 12211: Landroid/view/ViewGroup;.onRtlPropertiesChanged (I)V
+04-10 04:18:56.122      683-683/edu.washington.yujia1.activityspy D/dalvikvm©s VFY: replacing opcode 0x6f at 0x0007
+04-10 04:18:56.142      683-683/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.internal.widget.TintTypedArray.getChangingConfigurations
+04-10 04:18:56.142      683-683/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 392: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
+04-10 04:18:56.142      683-683/edu.washington.yujia1.activityspy D/dalvikvm©s VFY: replacing opcode 0x6e at 0x0002
+04-10 04:18:56.152      683-683/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.internal.widget.TintTypedArray.getType
+04-10 04:18:56.152      683-683/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 414: Landroid/content/res/TypedArray;.getType (I)I
+04-10 04:18:56.162      683-683/edu.washington.yujia1.activityspy D/dalvikvm©s VFY: replacing opcode 0x6e at 0x0002
+04-10 04:18:56.172      683-683/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.content.res.Resources.getDrawable, referenced from method android.support.v7.internal.widget.ResourcesWrapper.getDrawable
+04-10 04:18:56.172      683-683/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 355: Landroid/content/res/Resources;.getDrawable (ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+04-10 04:18:56.172      683-683/edu.washington.yujia1.activityspy D/dalvikvm©s VFY: replacing opcode 0x6e at 0x0002
+04-10 04:18:56.172      683-683/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.content.res.Resources.getDrawableForDensity, referenced from method android.support.v7.internal.widget.ResourcesWrapper.getDrawableForDensity
+04-10 04:18:56.172      683-683/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 357: Landroid/content/res/Resources;.getDrawableForDensity (IILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
+04-10 04:18:56.182      683-683/edu.washington.yujia1.activityspy D/dalvikvm©s VFY: replacing opcode 0x6e at 0x0002
+04-10 04:18:56.271      683-688/edu.washington.yujia1.activityspy I/dalvikvm©s threadid=3: reacting to signal 3
+04-10 04:18:56.311      683-688/edu.washington.yujia1.activityspy I/dalvikvm©s Wrote stack traces to '/data/anr/traces.txt'
+04-10 04:18:56.341      683-683/edu.washington.yujia1.activityspy I/Main Activity©s onCreate event fired.
+04-10 04:18:56.522      683-683/edu.washington.yujia1.activityspy I/Main Activity©s onCreateOptionsMenu event fired.
+04-10 04:18:56.552      683-683/edu.washington.yujia1.activityspy D/gralloc_goldfish©s Emulator without GPU emulation detected.
+04-10 04:20:04.252      683-683/edu.washington.yujia1.activityspy E/Main Activity©s We¡¯re going down, Captain!
