@@ -26,6 +26,36 @@ public class MainActivity extends ActionBarActivity {
     }
 
     @Override
+    public void onStart(){
+        super.onStart();
+        Log.i("Main Activity","onStart event fired.");
+    }
+
+    @Override
+    public void onRestart(){
+        super.onStart();
+        Log.i("Main Activity","onRestart event fired.");
+    }
+
+    @Override
+    public void onResume(){
+        super.onStart();
+        Log.i("Main Activity","onResume event fired.");
+    }
+
+    @Override
+    public void onPause(){
+        super.onStart();
+        Log.i("Main Activity","onPause event fired.");
+    }
+
+    @Override
+    public void onStop(){
+        super.onStart();
+        Log.i("Main Activity","onStop event fired.");
+    }
+
+    @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
