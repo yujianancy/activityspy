@@ -1,35 +1,12 @@
-04-11 04:04:35.541      809-815/edu.washington.yujia1.activityspy I/dalvikvm©s threadid=3: reacting to signal 3
-04-11 04:04:35.661      809-815/edu.washington.yujia1.activityspy I/dalvikvm©s Wrote stack traces to '/data/anr/traces.txt'
-04-11 04:04:36.110      809-815/edu.washington.yujia1.activityspy I/dalvikvm©s threadid=3: reacting to signal 3
-04-11 04:04:36.160      809-815/edu.washington.yujia1.activityspy I/dalvikvm©s Wrote stack traces to '/data/anr/traces.txt'
-04-11 04:04:36.350      809-815/edu.washington.yujia1.activityspy I/dalvikvm©s threadid=3: reacting to signal 3
-04-11 04:04:36.430      809-815/edu.washington.yujia1.activityspy I/dalvikvm©s Wrote stack traces to '/data/anr/traces.txt'
-04-11 04:04:36.510      809-809/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.view.ViewGroup.onNestedScrollAccepted, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onNestedScrollAccepted
-04-11 04:04:36.510      809-809/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 12209: Landroid/view/ViewGroup;.onNestedScrollAccepted (Landroid/view/View;Landroid/view/View;I)V
-04-11 04:04:36.510      809-809/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.view.ViewGroup.onStopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onStopNestedScroll
-04-11 04:04:36.510      809-809/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 12215: Landroid/view/ViewGroup;.onStopNestedScroll (Landroid/view/View;)V
-04-11 04:04:36.520      809-809/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.view.ViewGroup.onWindowSystemUiVisibilityChanged, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onWindowSystemUiVisibilityChanged
-04-11 04:04:36.520      809-809/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 12217: Landroid/view/ViewGroup;.onWindowSystemUiVisibilityChanged (I)V
-04-11 04:04:36.550      809-809/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.support.v7.internal.widget.ActionBarOverlayLayout.stopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.setHideOnContentScrollEnabled
-04-11 04:04:36.580      809-809/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 9780: Landroid/support/v7/internal/widget/ActionBarOverlayLayout;.stopNestedScroll ()V
-04-11 04:04:36.961      809-815/edu.washington.yujia1.activityspy I/dalvikvm©s threadid=3: reacting to signal 3
-04-11 04:04:36.981      809-815/edu.washington.yujia1.activityspy I/dalvikvm©s Wrote stack traces to '/data/anr/traces.txt'
-04-11 04:04:37.071      809-809/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.view.ViewGroup.onRtlPropertiesChanged, referenced from method android.support.v7.widget.Toolbar.onRtlPropertiesChanged
-04-11 04:04:37.071      809-809/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 12212: Landroid/view/ViewGroup;.onRtlPropertiesChanged (I)V
-04-11 04:04:37.091      809-809/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.internal.widget.TintTypedArray.getChangingConfigurations
-04-11 04:04:37.091      809-809/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 392: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
-04-11 04:04:37.101      809-809/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.internal.widget.TintTypedArray.getType
-04-11 04:04:37.101      809-809/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 414: Landroid/content/res/TypedArray;.getType (I)I
-04-11 04:04:37.121      809-809/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.content.res.Resources.getDrawable, referenced from method android.support.v7.internal.widget.ResourcesWrapper.getDrawable
-04-11 04:04:37.121      809-809/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 355: Landroid/content/res/Resources;.getDrawable (ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
-04-11 04:04:37.121      809-809/edu.washington.yujia1.activityspy I/dalvikvm©s Could not find method android.content.res.Resources.getDrawableForDensity, referenced from method android.support.v7.internal.widget.ResourcesWrapper.getDrawableForDensity
-04-11 04:04:37.121      809-809/edu.washington.yujia1.activityspy W/dalvikvm©s VFY: unable to resolve virtual method 357: Landroid/content/res/Resources;.getDrawableForDensity (IILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
-04-11 04:04:37.211      809-809/edu.washington.yujia1.activityspy I/Main Activity©s onCreate event fired.
-04-11 04:04:37.221      809-809/edu.washington.yujia1.activityspy I/Main Activity©s onStart event fired.
-04-11 04:04:37.221      809-809/edu.washington.yujia1.activityspy I/Main Activity©s onResume event fired.
-04-11 04:04:37.351      809-809/edu.washington.yujia1.activityspy I/Main Activity©s onCreateOptionsMenu event fired.
-04-11 04:04:37.531      809-815/edu.washington.yujia1.activityspy I/dalvikvm©s threadid=3: reacting to signal 3
-04-11 04:04:37.540      809-815/edu.washington.yujia1.activityspy I/dalvikvm©s Wrote stack traces to '/data/anr/traces.txt'
-04-11 04:04:43.690      809-809/edu.washington.yujia1.activityspy I/Main Activity©s onPause event fired.
-04-11 04:04:44.960      809-809/edu.washington.yujia1.activityspy I/Main Activity©s onStop event fired.
-04-11 04:04:44.960      809-809/edu.washington.yujia1.activityspy E/Main Activity©s We¡¯re going down, Captain!
+04-12 04:04:44.207      874-874/edu.washington.yujia1.activityspy I/Main Activity©s onCreate event fired.
+04-12 04:04:44.207      874-874/edu.washington.yujia1.activityspy I/Main Activity©s onStart event fired.
+04-12 04:04:44.217      874-874/edu.washington.yujia1.activityspy I/Main Activity©s onResume event fired.
+04-12 04:04:44.427      874-874/edu.washington.yujia1.activityspy I/Main Activity©s onCreateOptionsMenu event fired.
+04-12 04:05:17.617      874-874/edu.washington.yujia1.activityspy I/Main Activity©s onPause event fired.
+04-12 04:05:19.428      874-874/edu.washington.yujia1.activityspy I/Main Activity©s onStop event fired.
+04-12 04:05:26.727      874-874/edu.washington.yujia1.activityspy I/Main Activity©s onRestart event fired.
+04-12 04:05:26.737      874-874/edu.washington.yujia1.activityspy I/Main Activity©s onStart event fired.
+04-12 04:05:26.737      874-874/edu.washington.yujia1.activityspy I/Main Activity©s onResume event fired.
+04-12 04:05:37.136      874-874/edu.washington.yujia1.activityspy I/Main Activity©s onPause event fired.
+04-12 04:05:39.339      874-874/edu.washington.yujia1.activityspy I/Main Activity©s onStop event fired.
+04-12 04:05:39.339      874-874/edu.washington.yujia1.activityspy E/Main Activity©s We¡¯re going down, Captain!
